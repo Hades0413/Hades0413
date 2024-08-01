@@ -78,6 +78,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/Hades0413/Hades0413/output/snake.svg" alt="Snake animation" />
 
 ###
