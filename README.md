@@ -84,3 +84,17 @@
 <img src="https://raw.githubusercontent.com/Hades0413/Hades0413/output/snake.svg" alt="Snake animation" />
 
 ###
+
+###
+
+<h2 align="center">🎵 Escucha Mi Música</h2>
+
+###
+
+<div align="center">
+  <a href="[https://open.spotify.com/track/6w40LhA3aI9v5Zc2zUO6i3](https://open.spotify.com/intl-es/track/6cVYipdAPMZ4db5DO7IyR5?si=797257b7981e4325&nd=1&dlsi=f5f0be6246e4421b)" target="_blank">
+    <img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify" />
+  </a>
+</div>
+
+###
