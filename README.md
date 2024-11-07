@@ -1,4 +1,4 @@
-<h2 align="left">¡¡Hi!! 👋 Soy Hades y soy un programador por diversión.</h2>
+<h2 align="left">¡¡Hi!! 👋 Soy Hades y soy un programador por diversión....</h2>
 
 ###
 
