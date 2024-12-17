@@ -1,17 +1,17 @@
-<h2 align="left">¡¡Hi!! 👋 Soy Hades y soy un programador por diversión....</h2>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hades0413&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Hades0413&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hades0413&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=radical&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Hades0413&theme=radical&no-bg=true&no-frame=true&row=1&column=3" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=hades0413&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=hades0413&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hades0413&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=radical&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=hades0413&row=1&column=4&theme=radical&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/DyPejwJyUEUAAAAM/anime.gif"  />
+<img align="right" height="150" src="https://camo.githubusercontent.com/a232884e6d204a8049cc801d77a5813139f371acb9e86084c32a5cd744328a64/68747470733a2f2f6d656469612e74656e6f722e636f6d2f447950656a774a79554555414141414d2f616e696d652e676966"  />
 
 ###
 
@@ -55,6 +55,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
 </div>
 
 ###
@@ -65,7 +71,7 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <a href="https://discord.gg/zsrKVtyMBG" target="_blank">
+  <a href="https://discord.com/invite/zsrKVtyMBG" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="migvelgomero@gmail.com" target="_blank">
@@ -81,6 +87,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Hades0413/Hades0413/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/hades0413/hades0413/output/snake.svg" alt="Snake animation" />
 
 ###
